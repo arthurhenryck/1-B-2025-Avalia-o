@@ -1,4 +1,5 @@
 import React from "react"
+import './Cards.css'
 
 function Card({produto,imagem}){
     return(
@@ -9,7 +10,7 @@ function Card({produto,imagem}){
           <p className="formatar texto"> {produto} </p>
         </div>        
         </>
-    )
+    ) 
 }
 
 export default Card 

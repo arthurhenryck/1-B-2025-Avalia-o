@@ -1,0 +1,30 @@
+.baner {
+    width: 370px;
+    height: 123px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  .imgBaner {
+    width: 370px;
+    height: 123px;
+    margin-top: 10px;
+  }
+
+  .dark {
+    width: 370px;
+    height: 123px;
+    background: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 92px;
+  }
+
+  .escrBaner {
+    font-family: "Jockey One";
+    color: white;
+    position: absolute;
+    top: 89px;
+    font-size: x-large;
+  }
