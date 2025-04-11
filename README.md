@@ -4,3 +4,4 @@
 4- Usar o comando "npm install" para instalar o arquivo "node-modules"
 5- E para rodar o código usei o comando "npm run dev"
 6- coloquei meu código da loja dentro do "return"
+7- modifiquei o código criando os componentes, 
