@@ -1,31 +1,31 @@
 .card7 {
-    position: relative;
-    bottom: 60px;
-  }
+  position: relative;
+  bottom: 60px;
+}
 
-  .bottom {
-    width: 197px;
-    height: 173px;
-    background-color: #323232;
-    margin-bottom: -180px;
-  }
+.bottom {
+  width: 197px;
+  height: 173px;
+  background-color: #323232;
+  margin-bottom: -180px;
+}
 
-  .limpezaimg {
-    width: 173px;
-    height: 116px;
-    position: relative;
-    top: 20px;
-    left: 13px;
-  }
+.limpezaimg {
+  width: 173px;
+  height: 116px;
+  position: relative;
+  top: 20px;
+  left: 13px;
+}
 
-  .formatar {
-    position: relative;
-    bottom: 6px;
-    left: 30px;
-  }
+.formatar {
+  position: relative;
+  bottom: 6px;
+  left: 30px;
+}
 
-  .texto {
-    font-family: "Playfair Display";
-    font-size: x-large;
-    color: aqua;
-  }
+.texto {
+  font-family: "Playfair Display";
+  font-size: x-large;
+  color: aqua;
+}

@@ -1,16 +1,16 @@
 import React from "react"
 import './Cards.css'
 
-function Card({produto,imagem}){
-    return(
+function Cards({ produto, imagem }) {
+    return (
         <>
             <div className="card7">{/*Card7*/}
-          <div className="bottom"></div>
-          <img src={imagem} className="limpezaimg" />
-          <p className="formatar texto"> {produto} </p>
-        </div>        
+                <div className="bottom"></div>
+                <img src={imagem} className="limpezaimg" />
+                <p className="formatar texto"> {produto} </p>
+            </div>
         </>
-    ) 
+    )
 }
 
-export default Card 
+export default Cards 
